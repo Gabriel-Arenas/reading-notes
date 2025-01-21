@@ -1,5 +1,5 @@
 # Lomo Saltado
-## Introducción
+## Introducción:
 
 El lomo saltado es uno de los platos más representativos de la gastronomía peruana, conocido por su deliciosa fusión de sabores criollos y asiáticos.
 
@@ -15,7 +15,8 @@ El lomo saltado es uno de los platos más representativos de la gastronomía per
 
 ![Lomo Saltado](https://i.ytimg.com/vi/sWXRJbGi6yQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAmzgGJ6J0eLasWLgYE-TcZgyiSJQ)
 
-## Papa rellena
+# Papa rellena
+## Introducción:
 
 La papa rellena es un plato tradicional de la gastronomía peruana, conocido por su exquisita combinación de una masa suave de papa sancochada que envuelve un delicioso relleno de carne sazonada.
 
