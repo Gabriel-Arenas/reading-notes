@@ -1,5 +1,5 @@
 # Gabriel Arenas
-Tengo 20 años soy del departamento de Lima, Perú y me intereso el desarrollo de paginas.
+Tengo 20 años soy del departamento de Lima, Perú y me intereso el desarrollo de paginas web.
 
 
 
